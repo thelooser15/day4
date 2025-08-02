@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day4\\ExtensionExam1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F76558C-11EF-4481-90E2-A2F014BDFD78}|ExtensionExam1\\ExtensionExam1.csproj|c:\\users\\pavan\\desktop\\wipro\\training\\day4\\extensionexam1\\extensionexam1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F76558C-11EF-4481-90E2-A2F014BDFD78}|ExtensionExam1\\ExtensionExam1.csproj|solutionrelative:extensionexam1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F76558C-11EF-4481-90E2-A2F014BDFD78}|ExtensionExam1\\ExtensionExam1.csproj|c:\\users\\pavan\\desktop\\wipro\\training\\day4\\extensionexam1\\extensionexam1\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F76558C-11EF-4481-90E2-A2F014BDFD78}|ExtensionExam1\\ExtensionExam1.csproj|solutionrelative:extensionexam1\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F76558C-11EF-4481-90E2-A2F014BDFD78}|ExtensionExam1\\ExtensionExam1.csproj|c:\\users\\pavan\\desktop\\wipro\\training\\day4\\extensionexam1\\extensionexam1\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F76558C-11EF-4481-90E2-A2F014BDFD78}|ExtensionExam1\\ExtensionExam1.csproj|solutionrelative:extensionexam1\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day4\\ExtensionExam1\\ExtensionExam1\\Extension.cs",
+              "RelativeDocumentMoniker": "ExtensionExam1\\Extension.cs",
+              "ToolTip": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day4\\ExtensionExam1\\ExtensionExam1\\Extension.cs",
+              "RelativeToolTip": "ExtensionExam1\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:58:07.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day4\\ExtensionExam1\\ExtensionExam1\\Calculation.cs",
+              "RelativeDocumentMoniker": "ExtensionExam1\\Calculation.cs",
+              "ToolTip": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day4\\ExtensionExam1\\ExtensionExam1\\Calculation.cs",
+              "RelativeToolTip": "ExtensionExam1\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:53:20.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day4\\ExtensionExam1\\ExtensionExam1\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionExam1\\Program.cs",
+              "ToolTip": "C:\\Users\\PAVAN\\Desktop\\wipro\\training\\Day4\\ExtensionExam1\\ExtensionExam1\\Program.cs",
+              "RelativeToolTip": "ExtensionExam1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:51:32.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

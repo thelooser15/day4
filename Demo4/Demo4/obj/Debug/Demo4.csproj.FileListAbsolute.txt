@@ -1,0 +1,8 @@
+C:\Users\PAVAN\Desktop\wipro\training\Day4\Demo4\Demo4\bin\Debug\Demo4.exe.config
+C:\Users\PAVAN\Desktop\wipro\training\Day4\Demo4\Demo4\bin\Debug\Demo4.exe
+C:\Users\PAVAN\Desktop\wipro\training\Day4\Demo4\Demo4\bin\Debug\Demo4.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day4\Demo4\Demo4\obj\Debug\Demo4.csproj.AssemblyReference.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day4\Demo4\Demo4\obj\Debug\Demo4.csproj.CoreCompileInputs.cache
+C:\Users\PAVAN\Desktop\wipro\training\Day4\Demo4\Demo4\obj\Debug\Demo4.exe
+C:\Users\PAVAN\Desktop\wipro\training\Day4\Demo4\Demo4\obj\Debug\Demo4.pdb
+C:\Users\PAVAN\Desktop\wipro\training\Day4\Demo4\Demo4\obj\Debug\Demo4.exe.config
